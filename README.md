@@ -1,1 +1,1 @@
-# webserv
+# a simple tcp server
